@@ -1,0 +1,19 @@
+{
+  "name": "trello_js",
+  "version": "1.0.0",
+  "description": "Activity 7 Week 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandLop/Trello_JS.git"
+  },
+  "author": "BrandLop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandLop/Trello_JS/issues"
+  },
+  "homepage": "https://github.com/BrandLop/Trello_JS#readme"
+}
